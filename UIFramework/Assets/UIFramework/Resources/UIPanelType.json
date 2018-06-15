@@ -1,0 +1,32 @@
+{
+  "panelInfoList": [
+    {
+      "panelTypeString": "ItemMessage",
+      "path": "UIPanel/ItemMessagePanel"
+    },
+    {
+      "panelTypeString": "Knapsack",
+      "path": "UIPanel/KnapsackPanel"
+    },
+    {
+      "panelTypeString": "MainMenu",
+      "path": "UIPanel/MainMenuPanel"
+    },
+    {
+      "panelTypeString": "Shop",
+      "path": "UIPanel/ShopPanel"
+    },
+    {
+      "panelTypeString": "Skill",
+      "path": "UIPanel/SkillPanel"
+    },
+    {
+      "panelTypeString": "Task",
+      "path": "UIPanel/TaskPanel"
+    },
+    {
+      "panelTypeString": "System",
+      "path": "UIPanel/SystemPanel"
+    }
+  ]
+}
